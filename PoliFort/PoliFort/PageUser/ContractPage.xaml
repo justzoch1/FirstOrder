@@ -1,0 +1,36 @@
+﻿<Page x:Class="PoliFort.PageUser.ContractPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:PoliFort.PageUser"
+      mc:Ignorable="d" 
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      d:DesignHeight="1080" d:DesignWidth="1920"
+      Title="Полифорт">
+    <Grid Background="{DynamicResource PrimaryBackGrid}" Cursor="" Margin="0,0,0,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <Border  Background="{DynamicResource PrimaryBackBrushTwo}" CornerRadius="3" HorizontalAlignment="Left" Width="1923" Grid.ColumnSpan="3" Height="83" VerticalAlignment="Top" Cursor="Hand">
+            <materialDesign:Chip Background="{DynamicResource PrimaryHueBrushZero}" FontSize="50" Width="60" x:Name="Roll" Height="50" HorizontalAlignment="Stretch" Margin="1697,16,166,17" Click="Roll_Click">
+                <Image Source="/Image/goout.png" Height="35" Width="35" OpacityMask="Black" Cursor="Hand"/>
+            </materialDesign:Chip>
+        </Border>
+        <materialDesign:Chip Foreground="{DynamicResource SecondaryHueBrushTwo }"  Background="{DynamicResource PrimaryHueBrushZero}" VerticalAlignment="Top" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="25" x:Name="GetOutChip"  Content="Выйти" Click="Click_Chip_GoOut" Height="48" Margin="1778,20,0,0" BorderBrush="#FF447BBA" Cursor="Hand" Width="107" IconBackground="#FF447BBA"/>
+        <materialDesign:Chip Foreground="{DynamicResource Foreground }" Background="{DynamicResource PrimaryHueBrushZero}" VerticalAlignment="Top" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="25" x:Name="GotoSecond"  Content="Вернуться на главный экран" Height="48" Margin="29,920,0,0" BorderBrush="#FF447BBA" Cursor="Hand" Width="369" IconBackground="#FF447BBA" Click="GotoSecond_Click"/>
+        <RichTextBox Background="{DynamicResource PrimaryBackBrushTwo}" Foreground="{DynamicResource Foreground }" IsReadOnly="True" x:Name="RichBox" Width="1080" Height="760" Margin="403,133,437,180">
+            <FlowDocument>
+                <Paragraph>
+                    <Run Text=""/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+        <materialDesign:Chip Foreground="{DynamicResource SecondaryHueBrushTwo }" Background="{DynamicResource PrimaryBackButtonBrushTwo}"  VerticalAlignment="Top" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="25" x:Name="GoToEmail"  Content="Отправить договор на почту" Height="55" Margin="1524,760,0,0" BorderBrush="#FF447BBA" Cursor="Hand" Width="364" IconBackground="#FF447BBA" Click="GoToEmail_Click"/>
+        <materialDesign:Chip Foreground="{DynamicResource SecondaryHueBrushTwo }" Background="{DynamicResource PrimaryBackButtonBrushTwo}"  VerticalAlignment="Top" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="25" x:Name="GoToPriner"  Content="Распечатать договор" Height="56" Margin="1524,844,0,0" BorderBrush="#FF447BBA" Cursor="Hand" Width="270" IconBackground="#FF447BBA" Click="GoToPrinter_Click"/>
+        <CheckBox Foreground="{DynamicResource Foreground }" Background="{DynamicResource PrimaryHueBrushZero}" x:Name="ChekBox_Agree" Content="Ознакомлен(а) с договором" FontSize="25" HorizontalAlignment="Left" Margin="1124,933,0,0" VerticalAlignment="Top" Checked="ChekBox_Agree_Checked"/>
+    </Grid>
+</Page>

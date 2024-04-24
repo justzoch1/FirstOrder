@@ -1,0 +1,492 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B967A9BD-4A7C-47BF-8B65-F92AE74B5851}|PoliFort\\PoliFort.csproj|c:\\users\\olbin\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0445\u0435\u0440\u043D\u044F\\polifort\\polifort\\assets\\forget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B967A9BD-4A7C-47BF-8B65-F92AE74B5851}|PoliFort\\PoliFort.csproj|solutionrelative:polifort\\assets\\forget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\Image\\Image1.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PoliFort\\Image\\Image1.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\Image\\free-icon-save-file-3984397.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PoliFort\\Image\\free-icon-save-file-3984397.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\Image\\free-icon-refresh-1082454.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PoliFort\\Image\\free-icon-refresh-1082454.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\Image\\free-icon-plus-1665680.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PoliFort\\Image\\free-icon-plus-1665680.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\Image\\free-icon-delete-8526771.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PoliFort\\Image\\free-icon-delete-8526771.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\olbin\\AppData\\Local\\Temp\\.vsdbgsrc\\4b48bb15d7fca59f1634ce16f57cd64749c9de8df731603b46d9e9a6b4fa7f98\\CancellationTokenSource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\olbin\\AppData\\Local\\Temp\\.vsdbgsrc\\decbffd235d68d6873f66228463f85ccdd14e63bb6804d32cf0fe4dede7caae0\\NativeDriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\PoliFort\\PoliFort\\bin\\Debug\\Assets\\polifort.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B967A9BD-4A7C-47BF-8B65-F92AE74B5851}|PoliFort\\PoliFort.csproj|C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\Image\\goout.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{B967A9BD-4A7C-47BF-8B65-F92AE74B5851}|PoliFort\\PoliFort.csproj|solutionrelative:PoliFort\\Image\\goout.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B967A9BD-4A7C-47BF-8B65-F92AE74B5851}|PoliFort\\PoliFort.csproj|C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\MainWindow\\MainPolifortUser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B967A9BD-4A7C-47BF-8B65-F92AE74B5851}|PoliFort\\PoliFort.csproj|solutionrelative:PoliFort\\MainWindow\\MainPolifortUser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B967A9BD-4A7C-47BF-8B65-F92AE74B5851}|PoliFort\\PoliFort.csproj|C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\PageUser\\ContractPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B967A9BD-4A7C-47BF-8B65-F92AE74B5851}|PoliFort\\PoliFort.csproj|solutionrelative:PoliFort\\PageUser\\ContractPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B967A9BD-4A7C-47BF-8B65-F92AE74B5851}|PoliFort\\PoliFort.csproj|C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\PageUser\\StatusRequestsPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B967A9BD-4A7C-47BF-8B65-F92AE74B5851}|PoliFort\\PoliFort.csproj|solutionrelative:PoliFort\\PageUser\\StatusRequestsPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B967A9BD-4A7C-47BF-8B65-F92AE74B5851}|PoliFort\\PoliFort.csproj|C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\PageUser\\StatusRequestsPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B967A9BD-4A7C-47BF-8B65-F92AE74B5851}|PoliFort\\PoliFort.csproj|solutionrelative:PoliFort\\PageUser\\StatusRequestsPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B967A9BD-4A7C-47BF-8B65-F92AE74B5851}|PoliFort\\PoliFort.csproj|C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\Assets\\DataBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B967A9BD-4A7C-47BF-8B65-F92AE74B5851}|PoliFort\\PoliFort.csproj|solutionrelative:PoliFort\\Assets\\DataBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B967A9BD-4A7C-47BF-8B65-F92AE74B5851}|PoliFort\\PoliFort.csproj|C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\Image\\wing.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{B967A9BD-4A7C-47BF-8B65-F92AE74B5851}|PoliFort\\PoliFort.csproj|solutionrelative:PoliFort\\Image\\wing.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B967A9BD-4A7C-47BF-8B65-F92AE74B5851}|PoliFort\\PoliFort.csproj|C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\MainWindow\\AddAccountWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B967A9BD-4A7C-47BF-8B65-F92AE74B5851}|PoliFort\\PoliFort.csproj|solutionrelative:PoliFort\\MainWindow\\AddAccountWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B967A9BD-4A7C-47BF-8B65-F92AE74B5851}|PoliFort\\PoliFort.csproj|C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\PageUser\\MainPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B967A9BD-4A7C-47BF-8B65-F92AE74B5851}|PoliFort\\PoliFort.csproj|solutionrelative:PoliFort\\PageUser\\MainPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B967A9BD-4A7C-47BF-8B65-F92AE74B5851}|PoliFort\\PoliFort.csproj|C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\Assets\\Hesh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B967A9BD-4A7C-47BF-8B65-F92AE74B5851}|PoliFort\\PoliFort.csproj|solutionrelative:PoliFort\\Assets\\Hesh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B967A9BD-4A7C-47BF-8B65-F92AE74B5851}|PoliFort\\PoliFort.csproj|C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\Assets\\Icon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B967A9BD-4A7C-47BF-8B65-F92AE74B5851}|PoliFort\\PoliFort.csproj|solutionrelative:PoliFort\\Assets\\Icon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B967A9BD-4A7C-47BF-8B65-F92AE74B5851}|PoliFort\\PoliFort.csproj|C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\PageUser\\ContractPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B967A9BD-4A7C-47BF-8B65-F92AE74B5851}|PoliFort\\PoliFort.csproj|solutionrelative:PoliFort\\PageUser\\ContractPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B967A9BD-4A7C-47BF-8B65-F92AE74B5851}|PoliFort\\PoliFort.csproj|C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\MainWindow\\MainMainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B967A9BD-4A7C-47BF-8B65-F92AE74B5851}|PoliFort\\PoliFort.csproj|solutionrelative:PoliFort\\MainWindow\\MainMainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B967A9BD-4A7C-47BF-8B65-F92AE74B5851}|PoliFort\\PoliFort.csproj|C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\MainWindow\\MainMainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B967A9BD-4A7C-47BF-8B65-F92AE74B5851}|PoliFort\\PoliFort.csproj|solutionrelative:PoliFort\\MainWindow\\MainMainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B967A9BD-4A7C-47BF-8B65-F92AE74B5851}|PoliFort\\PoliFort.csproj|C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\PageUser\\MainPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B967A9BD-4A7C-47BF-8B65-F92AE74B5851}|PoliFort\\PoliFort.csproj|solutionrelative:PoliFort\\PageUser\\MainPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B967A9BD-4A7C-47BF-8B65-F92AE74B5851}|PoliFort\\PoliFort.csproj|C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\ModalWindow\\ModalWindowEmail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B967A9BD-4A7C-47BF-8B65-F92AE74B5851}|PoliFort\\PoliFort.csproj|solutionrelative:PoliFort\\ModalWindow\\ModalWindowEmail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B967A9BD-4A7C-47BF-8B65-F92AE74B5851}|PoliFort\\PoliFort.csproj|C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\ModalWindow\\ModalWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B967A9BD-4A7C-47BF-8B65-F92AE74B5851}|PoliFort\\PoliFort.csproj|solutionrelative:PoliFort\\ModalWindow\\ModalWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B967A9BD-4A7C-47BF-8B65-F92AE74B5851}|PoliFort\\PoliFort.csproj|C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\MainWindow\\MainPolifortUser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B967A9BD-4A7C-47BF-8B65-F92AE74B5851}|PoliFort\\PoliFort.csproj|solutionrelative:PoliFort\\MainWindow\\MainPolifortUser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B967A9BD-4A7C-47BF-8B65-F92AE74B5851}|PoliFort\\PoliFort.csproj|C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\App.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B967A9BD-4A7C-47BF-8B65-F92AE74B5851}|PoliFort\\PoliFort.csproj|solutionrelative:PoliFort\\App.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B967A9BD-4A7C-47BF-8B65-F92AE74B5851}|PoliFort\\PoliFort.csproj|C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\MainWindow\\AuthorizationWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B967A9BD-4A7C-47BF-8B65-F92AE74B5851}|PoliFort\\PoliFort.csproj|solutionrelative:PoliFort\\MainWindow\\AuthorizationWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B967A9BD-4A7C-47BF-8B65-F92AE74B5851}|PoliFort\\PoliFort.csproj|C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\Theme\\DarkDictionary.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B967A9BD-4A7C-47BF-8B65-F92AE74B5851}|PoliFort\\PoliFort.csproj|solutionrelative:PoliFort\\Theme\\DarkDictionary.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 2285,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "goout.png",
+              "DocumentMoniker": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\Image\\goout.png",
+              "RelativeDocumentMoniker": "PoliFort\\Image\\goout.png",
+              "ToolTip": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\Image\\goout.png",
+              "RelativeToolTip": "PoliFort\\Image\\goout.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-04-24T18:37:49.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Forget.cs",
+              "DocumentMoniker": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\Assets\\Forget.cs",
+              "RelativeDocumentMoniker": "PoliFort\\Assets\\Forget.cs",
+              "ToolTip": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\Assets\\Forget.cs",
+              "RelativeToolTip": "PoliFort\\Assets\\Forget.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T18:35:46.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Image1.png",
+              "DocumentMoniker": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\Image\\Image1.png",
+              "RelativeDocumentMoniker": "PoliFort\\Image\\Image1.png",
+              "ToolTip": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\Image\\Image1.png",
+              "RelativeToolTip": "PoliFort\\Image\\Image1.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-04-24T18:37:55.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainPolifortUser.xaml",
+              "DocumentMoniker": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\MainWindow\\MainPolifortUser.xaml",
+              "RelativeDocumentMoniker": "PoliFort\\MainWindow\\MainPolifortUser.xaml",
+              "ToolTip": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\MainWindow\\MainPolifortUser.xaml",
+              "RelativeToolTip": "PoliFort\\MainWindow\\MainPolifortUser.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-24T18:32:31.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ContractPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\PageUser\\ContractPage.xaml.cs",
+              "RelativeDocumentMoniker": "PoliFort\\PageUser\\ContractPage.xaml.cs",
+              "ToolTip": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\PageUser\\ContractPage.xaml.cs",
+              "RelativeToolTip": "PoliFort\\PageUser\\ContractPage.xaml.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAAAJEAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T18:32:31.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StatusRequestsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\PageUser\\StatusRequestsPage.xaml",
+              "RelativeDocumentMoniker": "PoliFort\\PageUser\\StatusRequestsPage.xaml",
+              "ToolTip": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\PageUser\\StatusRequestsPage.xaml",
+              "RelativeToolTip": "PoliFort\\PageUser\\StatusRequestsPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-24T18:32:31.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StatusRequestsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\PageUser\\StatusRequestsPage.xaml.cs",
+              "RelativeDocumentMoniker": "PoliFort\\PageUser\\StatusRequestsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\PageUser\\StatusRequestsPage.xaml.cs",
+              "RelativeToolTip": "PoliFort\\PageUser\\StatusRequestsPage.xaml.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAFAAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T18:32:31.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\Assets\\DataBase.cs",
+              "RelativeDocumentMoniker": "PoliFort\\Assets\\DataBase.cs",
+              "ToolTip": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\Assets\\DataBase.cs",
+              "RelativeToolTip": "PoliFort\\Assets\\DataBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T18:36:25.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "free-icon-save-file-3984397.png",
+              "DocumentMoniker": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\Image\\free-icon-save-file-3984397.png",
+              "RelativeDocumentMoniker": "PoliFort\\Image\\free-icon-save-file-3984397.png",
+              "ToolTip": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\Image\\free-icon-save-file-3984397.png",
+              "RelativeToolTip": "PoliFort\\Image\\free-icon-save-file-3984397.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-04-24T18:37:48.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "free-icon-refresh-1082454.png",
+              "DocumentMoniker": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\Image\\free-icon-refresh-1082454.png",
+              "RelativeDocumentMoniker": "PoliFort\\Image\\free-icon-refresh-1082454.png",
+              "ToolTip": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\Image\\free-icon-refresh-1082454.png",
+              "RelativeToolTip": "PoliFort\\Image\\free-icon-refresh-1082454.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-04-24T18:37:47.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "free-icon-plus-1665680.png",
+              "DocumentMoniker": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\Image\\free-icon-plus-1665680.png",
+              "RelativeDocumentMoniker": "PoliFort\\Image\\free-icon-plus-1665680.png",
+              "ToolTip": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\Image\\free-icon-plus-1665680.png",
+              "RelativeToolTip": "PoliFort\\Image\\free-icon-plus-1665680.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-04-24T18:37:45.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "free-icon-delete-8526771.png",
+              "DocumentMoniker": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\Image\\free-icon-delete-8526771.png",
+              "RelativeDocumentMoniker": "PoliFort\\Image\\free-icon-delete-8526771.png",
+              "ToolTip": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\Image\\free-icon-delete-8526771.png",
+              "RelativeToolTip": "PoliFort\\Image\\free-icon-delete-8526771.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-04-24T18:37:41.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "wing.png",
+              "DocumentMoniker": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\Image\\wing.png",
+              "RelativeDocumentMoniker": "PoliFort\\Image\\wing.png",
+              "ToolTip": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\Image\\wing.png",
+              "RelativeToolTip": "PoliFort\\Image\\wing.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-04-24T18:32:31.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddAccountWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\MainWindow\\AddAccountWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PoliFort\\MainWindow\\AddAccountWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\MainWindow\\AddAccountWindow.xaml.cs",
+              "RelativeToolTip": "PoliFort\\MainWindow\\AddAccountWindow.xaml.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T18:35:33.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CancellationTokenSource.cs",
+              "DocumentMoniker": "C:\\Users\\olbin\\AppData\\Local\\Temp\\.vsdbgsrc\\4b48bb15d7fca59f1634ce16f57cd64749c9de8df731603b46d9e9a6b4fa7f98\\CancellationTokenSource.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\4b48bb15d7fca59f1634ce16f57cd64749c9de8df731603b46d9e9a6b4fa7f98\\CancellationTokenSource.cs",
+              "ToolTip": "C:\\Users\\olbin\\AppData\\Local\\Temp\\.vsdbgsrc\\4b48bb15d7fca59f1634ce16f57cd64749c9de8df731603b46d9e9a6b4fa7f98\\CancellationTokenSource.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\4b48bb15d7fca59f1634ce16f57cd64749c9de8df731603b46d9e9a6b4fa7f98\\CancellationTokenSource.cs",
+              "ViewState": "AQIAAKMBAAAAAAAAAAAQwLkBAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T20:43:16.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\PageUser\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "PoliFort\\PageUser\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\PageUser\\MainPage.xaml.cs",
+              "RelativeToolTip": "PoliFort\\PageUser\\MainPage.xaml.cs",
+              "ViewState": "AQIAAB0BAAAAAAAAAAAQwDwBAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T18:32:31.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Hesh.cs",
+              "DocumentMoniker": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\Assets\\Hesh.cs",
+              "RelativeDocumentMoniker": "PoliFort\\Assets\\Hesh.cs",
+              "ToolTip": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\Assets\\Hesh.cs",
+              "RelativeToolTip": "PoliFort\\Assets\\Hesh.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T18:32:31.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Icon.cs",
+              "DocumentMoniker": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\Assets\\Icon.cs",
+              "RelativeDocumentMoniker": "PoliFort\\Assets\\Icon.cs",
+              "ToolTip": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\Assets\\Icon.cs",
+              "RelativeToolTip": "PoliFort\\Assets\\Icon.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T18:32:31.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ContractPage.xaml",
+              "DocumentMoniker": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\PageUser\\ContractPage.xaml",
+              "RelativeDocumentMoniker": "PoliFort\\PageUser\\ContractPage.xaml",
+              "ToolTip": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\PageUser\\ContractPage.xaml",
+              "RelativeToolTip": "PoliFort\\PageUser\\ContractPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-24T18:32:31.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MainMainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\MainWindow\\MainMainWindow.xaml",
+              "RelativeDocumentMoniker": "PoliFort\\MainWindow\\MainMainWindow.xaml",
+              "ToolTip": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\MainWindow\\MainMainWindow.xaml",
+              "RelativeToolTip": "PoliFort\\MainWindow\\MainMainWindow.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-24T18:32:31.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MainMainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\MainWindow\\MainMainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PoliFort\\MainWindow\\MainMainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\MainWindow\\MainMainWindow.xaml.cs",
+              "RelativeToolTip": "PoliFort\\MainWindow\\MainMainWindow.xaml.cs",
+              "ViewState": "AQIAANUAAAAAAAAAAAAAAAEBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T18:32:31.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "polifort.ico",
+              "DocumentMoniker": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\PoliFort\\PoliFort\\bin\\Debug\\Assets\\polifort.ico",
+              "RelativeDocumentMoniker": "..\\..\\PoliFort\\PoliFort\\bin\\Debug\\Assets\\polifort.ico",
+              "ToolTip": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\PoliFort\\PoliFort\\bin\\Debug\\Assets\\polifort.ico",
+              "RelativeToolTip": "..\\..\\PoliFort\\PoliFort\\bin\\Debug\\Assets\\polifort.ico",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2024-03-13T14:47:04.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NativeDriver.cs",
+              "DocumentMoniker": "C:\\Users\\olbin\\AppData\\Local\\Temp\\.vsdbgsrc\\decbffd235d68d6873f66228463f85ccdd14e63bb6804d32cf0fe4dede7caae0\\NativeDriver.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\decbffd235d68d6873f66228463f85ccdd14e63bb6804d32cf0fe4dede7caae0\\NativeDriver.cs",
+              "ToolTip": "C:\\Users\\olbin\\AppData\\Local\\Temp\\.vsdbgsrc\\decbffd235d68d6873f66228463f85ccdd14e63bb6804d32cf0fe4dede7caae0\\NativeDriver.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\decbffd235d68d6873f66228463f85ccdd14e63bb6804d32cf0fe4dede7caae0\\NativeDriver.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAAAKgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T16:37:52.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\PageUser\\MainPage.xaml",
+              "RelativeDocumentMoniker": "PoliFort\\PageUser\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\PageUser\\MainPage.xaml",
+              "RelativeToolTip": "PoliFort\\PageUser\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-24T18:32:31.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ModalWindowEmail.xaml",
+              "DocumentMoniker": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\ModalWindow\\ModalWindowEmail.xaml",
+              "RelativeDocumentMoniker": "PoliFort\\ModalWindow\\ModalWindowEmail.xaml",
+              "ToolTip": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\ModalWindow\\ModalWindowEmail.xaml",
+              "RelativeToolTip": "PoliFort\\ModalWindow\\ModalWindowEmail.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-24T18:32:31.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ModalWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\ModalWindow\\ModalWindow.xaml",
+              "RelativeDocumentMoniker": "PoliFort\\ModalWindow\\ModalWindow.xaml",
+              "ToolTip": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\ModalWindow\\ModalWindow.xaml",
+              "RelativeToolTip": "PoliFort\\ModalWindow\\ModalWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-24T18:32:31.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MainPolifortUser.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\MainWindow\\MainPolifortUser.xaml.cs",
+              "RelativeDocumentMoniker": "PoliFort\\MainWindow\\MainPolifortUser.xaml.cs",
+              "ToolTip": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\MainWindow\\MainPolifortUser.xaml.cs",
+              "RelativeToolTip": "PoliFort\\MainWindow\\MainPolifortUser.xaml.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAMwBsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T18:32:31.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\App.xaml",
+              "RelativeDocumentMoniker": "PoliFort\\App.xaml",
+              "ToolTip": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\App.xaml",
+              "RelativeToolTip": "PoliFort\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-24T18:32:31.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AuthorizationWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\MainWindow\\AuthorizationWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PoliFort\\MainWindow\\AuthorizationWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\MainWindow\\AuthorizationWindow.xaml.cs",
+              "RelativeToolTip": "PoliFort\\MainWindow\\AuthorizationWindow.xaml.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAIA4wFgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T18:32:31.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DarkDictionary.xaml",
+              "DocumentMoniker": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\Theme\\DarkDictionary.xaml",
+              "RelativeDocumentMoniker": "PoliFort\\Theme\\DarkDictionary.xaml",
+              "ToolTip": "C:\\Users\\olbin\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0425\u0435\u0440\u043D\u044F\\PoliFort\\PoliFort\\Theme\\DarkDictionary.xaml",
+              "RelativeToolTip": "PoliFort\\Theme\\DarkDictionary.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-24T18:32:31.561Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

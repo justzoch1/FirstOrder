@@ -1,0 +1,31 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    
+    <ResourceDictionary.MergedDictionaries>
+        <!-- Включение стилей Material Design Dark -->
+        <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Dark.xaml" />
+        <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Defaults.xaml" />
+        <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.TextBox.xaml" />
+        <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Button.xaml" />
+        <!-- Дополнительные стили для темной темы -->
+        <!-- Например: -->
+
+        <!-- Другие стили -->
+    </ResourceDictionary.MergedDictionaries>
+    <SolidColorBrush x:Key="PrimaryBackGrid" Color="#141414" /> <!-- Для грида -->
+    <!--<SolidColorBrush x:Key="PrimaryBackGrid" Color="#696969" />-->
+    <SolidColorBrush x:Key="PrimaryBackBrushTwo" Color="#222222" />
+    <!-- Для бордера -->
+    <SolidColorBrush x:Key="PrimaryBackButtonBrushTwo" Color="#222222" />
+    <!-- Для кнопки-->
+
+    <SolidColorBrush x:Key="TextBoxBack" Color="#4a4a4a" />
+    <SolidColorBrush x:Key="Foreground" Color="#99a2ad" />
+    <!--<SolidColorBrush x:Key="ForegroundLAbel" Color="#222222" />-->
+    <!-- Для текста в общем-->
+    <SolidColorBrush x:Key="ButtonForeGround" Color="#737373" />
+    <SolidColorBrush x:Key="SecondaryHueBrushTwo" Color="#99a2ad" />
+    <SolidColorBrush x:Key="PrimaryHueBrushZero" Color="#00FFFFFF" />
+    <SolidColorBrush x:Key="PrimaryBackButtonBrushList" Color="#edeef0" />
+
+</ResourceDictionary>

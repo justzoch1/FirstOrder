@@ -1,0 +1,66 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PoliFort"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" x:Class="PoliFort.MainMainWindow"
+        mc:Ignorable="d"
+        
+        WindowState="Maximized"
+        Style="{StaticResource MaterialDesignWindow}"
+        Title="PoliFort:Admin" Height="1080" Width="1920" >
+
+    <Grid Background="{DynamicResource PrimaryBackGrid}" Cursor="Hand" Margin="-3,11,0,-11">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1356"/>
+            <ColumnDefinition Width="564"/>
+        </Grid.ColumnDefinitions >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="750"/>
+            <RowDefinition Height="200"/>
+        </Grid.RowDefinitions>
+        <DataGrid Background="{DynamicResource PrimaryBackBrushTwo}"  Foreground="{DynamicResource Foreground}" FontSize="22"  AutoGenerateColumns="False" x:Name="phonesGrid" d:ItemsSource="{d:SampleData ItemCount=10}" Margin="22,35,36,44" Cursor="Hand" Grid.Row="1" >
+            <DataGrid.Columns >
+                <DataGridTextColumn Foreground="{DynamicResource Foreground}" Binding="{Binding id}" Header="*" FontSize="22" Width="200" />
+                <DataGridTextColumn Foreground="{DynamicResource Foreground}" Binding="{Binding one_bind}" x:Name="one_bind" Header="**" FontSize="22" Width="200" />
+                <DataGridTextColumn Foreground="{DynamicResource Foreground}" Binding="{Binding two_bind}" Header="***" FontSize="22" Width="200"/>
+                <DataGridTextColumn Foreground="{DynamicResource Foreground}" Binding="{Binding tree_bind}" Header="***" FontSize="22" Width="200"/>
+                <DataGridTextColumn Foreground="{DynamicResource Foreground}" Binding="{Binding four_bind}" Header='****' IsReadOnly="True" FontSize="22" Width="200" />
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <Border  Background="{DynamicResource PrimaryBackBrushTwo}" CornerRadius="3" HorizontalAlignment="Left" Width="1923" Grid.ColumnSpan="3" Height="83" VerticalAlignment="Top" Cursor="Hand">
+            <materialDesign:Chip Background="{DynamicResource PrimaryHueBrushZero}" x:Name="Roll" FontSize="50" Width="60" Height="50" HorizontalAlignment="Stretch" Margin="1699,16,164,17" Click="Roll_Click">
+                <Image Source="/Image/goout.png" Height="35" Width="35" OpacityMask="Black" Cursor="Hand"/>
+            </materialDesign:Chip>
+        </Border>
+        <TextBox x:Name="Search_Textbox" Background="{DynamicResource TextBoxBack}"  FontSize="25"  HorizontalAlignment="Left" Margin="29,20,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="1523" Height="43" Foreground="#E5FFFFFF" CaretBrush="#FFE4E5E9" SelectionBrush="#FFE4E5E9" BorderBrush="#FFE4E5E9" Cursor="Hand" />
+        <materialDesign:Chip Foreground="{DynamicResource SecondaryHueBrushTwo }"  Background="{DynamicResource PrimaryHueBrushZero}" VerticalAlignment="Top" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="25" x:Name="GetOutChip"  Content="Выйти" Click="Click_Chip_GoOut" Height="48" Margin="425,18,0,0" BorderBrush="#FF447BBA" Cursor="Hand" Width="107" IconBackground="#FF447BBA" Grid.Column="1"/>
+        <materialDesign:Chip  Background="{DynamicResource PrimaryHueBrushZero}" x:Name="Search_Chip" Margin="1600,16,0,0" VerticalAlignment="Top" Height="51" Width="78" Cursor="Hand">
+            <Image Source="/Image/wing.png" Height="35" Width="35" OpacityMask="Black" Cursor="Hand"/>
+        </materialDesign:Chip>
+        <ComboBox x:Name="Combobox_Table" Foreground="{DynamicResource Foreground}" Background="{DynamicResource PrimaryBackButtonBrushTwo}"  HorizontalAlignment="Left" Margin="1,35,0,0" VerticalAlignment="Top" Width="230"  Height="40" SelectionChanged="Combobox_Table_SelectionChanged" Grid.Row="1" Grid.Column="1" >
+            <ComboBoxItem Foreground="{DynamicResource Foreground}" Background="{DynamicResource PrimaryBackButtonBrushTwo}" Content=" Пользователи" Cursor="Hand"/>
+            <ComboBoxItem Foreground="{DynamicResource Foreground}" Background="{DynamicResource PrimaryBackButtonBrushTwo}" Content=" Сотрудники"/>
+            <ComboBoxItem Foreground="{DynamicResource Foreground}" Background="{DynamicResource PrimaryBackButtonBrushTwo}" Content=" Услуги"/>
+            <ComboBoxItem Foreground="{DynamicResource Foreground}" Background="{DynamicResource PrimaryBackButtonBrushTwo}" Content=" Отзывы"/>
+            <ComboBoxItem Foreground="{DynamicResource Foreground}" Background="{DynamicResource PrimaryBackButtonBrushTwo}" Content=" Заказы"/>
+            <ComboBoxItem Foreground="{DynamicResource Foreground}" Background="{DynamicResource PrimaryBackButtonBrushTwo}" Content=" Типы заказов"/>
+        </ComboBox>
+
+        <ComboBox x:Name="Combobox_Filter"  Foreground="{DynamicResource Foreground}" Background="{DynamicResource PrimaryBackButtonBrushTwo}"  HorizontalAlignment="Left" Margin="302,35,0,0" VerticalAlignment="Top" Width="230" Height="40" SelectionChanged="Combobox_Filter_SelectionChanged" Grid.Row="1"  Grid.Column="1">
+            <ComboBoxItem Foreground="{DynamicResource Foreground}" Background="{DynamicResource PrimaryBackButtonBrushTwo}" Content=" 0: Все типы"/>
+            <ComboBoxItem Foreground="{DynamicResource Foreground}" Background="{DynamicResource PrimaryBackButtonBrushTwo}" Content=" 1: Работа с настольными ПК"/>
+            <ComboBoxItem Foreground="{DynamicResource Foreground}" Background="{DynamicResource PrimaryBackButtonBrushTwo}" Content=" 2: Работа с мобильными устройствами"/>
+            <ComboBoxItem Foreground="{DynamicResource Foreground}" Background="{DynamicResource PrimaryBackButtonBrushTwo}" Content=" 3: Работа с дополнительным функционалом/аппаратами"/>
+            <ComboBoxItem Foreground="{DynamicResource Foreground}" Background="{DynamicResource PrimaryBackButtonBrushTwo}" Content=" 4: Работа с часами"/>
+            <ComboBoxItem Foreground="{DynamicResource Foreground}" Background="{DynamicResource PrimaryBackButtonBrushTwo}" Content=" 5: Работа с ноутбуками"/>
+        </ComboBox>
+
+        <Button Foreground="{DynamicResource SecondaryHueBrushTwo}" Background="{DynamicResource PrimaryBackButtonBrushTwo}" Content="Удалить" FontSize="24" HorizontalAlignment="Left" Margin="323,33,0,0" VerticalAlignment="Top" Height="56" Width="244" Click="Delete_Click" Cursor="Hand" Grid.Row="2" BorderBrush="Transparent"/>
+        <Button Foreground="{DynamicResource SecondaryHueBrushTwo}" Background="{DynamicResource PrimaryBackButtonBrushTwo}" Content="Сохранить" FontSize="24" HorizontalAlignment="Left" Margin="36,33,0,0" VerticalAlignment="Top" Height="56" Width="244" Click="Save_Click" Cursor="Hand" Grid.Row="2" BorderBrush="Transparent" />
+
+    </Grid>
+</Window>

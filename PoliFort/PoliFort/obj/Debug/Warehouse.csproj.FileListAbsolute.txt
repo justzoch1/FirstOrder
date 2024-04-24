@@ -1,0 +1,170 @@
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\obj\Debug\Warehouse.csproj.AssemblyReference.cache
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\obj\Debug\App.g.cs
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\obj\Debug\SSSTOCK_MarkupCompile.cache
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\obj\Debug\SSSTOCK_MarkupCompile.lref
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\obj\Debug\SSSTOCK.exe
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\obj\Debug\SSSTOCK.pdb
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\bin\Debug\SSSTOCK.exe.config
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\bin\Debug\SSSTOCK.exe.manifest
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\bin\Debug\SSSTOCK.application
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\bin\Debug\SSSTOCK.exe
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\bin\Debug\SSSTOCK.pdb
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\bin\Debug\EntityFramework.dll
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\bin\Debug\MaterialDesignColors.dll
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\bin\Debug\EntityFramework.xml
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\bin\Debug\MaterialDesignColors.pdb
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\obj\Debug\App.baml
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\obj\Debug\SSSTOCK.g.resources
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\obj\Debug\SSSSTOCK.Properties.Resources.resources
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\obj\Debug\Warehouse.csproj.GenerateResource.cache
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\obj\Debug\Warehouse.csproj.CoreCompileInputs.cache
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\obj\Debug\SSSTOCK.exe.manifest
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\obj\Debug\SSSTOCK.application
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\obj\Debug\Warehouse.csproj.CopyComplete
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\bin\Debug\Google.Protobuf.dll
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\bin\Debug\MySql.Data.dll
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\bin\Debug\MySqlConnector.dll
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\bin\Debug\System.Buffers.dll
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\bin\Debug\System.IO.Pipelines.dll
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\bin\Debug\System.Memory.dll
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\bin\Debug\ZstdSharp.dll
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\bin\Debug\Google.Protobuf.pdb
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\bin\Debug\Google.Protobuf.xml
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\bin\Debug\MySql.Data.xml
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\bin\Debug\MySqlConnector.xml
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\bin\Debug\System.Buffers.xml
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\bin\Debug\System.IO.Pipelines.xml
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\bin\Debug\System.Memory.xml
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\obj\Debug\AddAccountWindow.g.cs
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\obj\Debug\MainMainWindow.g.cs
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\obj\Debug\AuthorizationWindow.g.cs
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\obj\Debug\MainPolifortUser.g.cs
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\obj\Debug\AddAccountWindow.baml
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\obj\Debug\MainMainWindow.baml
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\obj\Debug\AuthorizationWindow.baml
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\obj\Debug\MainPolifortUser.baml
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\obj\Debug\PageUser\ContractPage.g.cs
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\obj\Debug\PageUser\MainPage.g.cs
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\obj\Debug\PageUser\StatusRequestsPage.g.cs
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\obj\Debug\PageUser\ContractPage.baml
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\obj\Debug\PageUser\MainPage.baml
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\obj\Debug\PageUser\StatusRequestsPage.baml
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\obj\Debug\ModalWindow\ModalWindow.g.cs
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\obj\Debug\ModalWindow\ModalWindow.baml
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\obj\Debug\ModalWindow\ModalWindowEmail.g.cs
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\obj\Debug\ModalWindow\ModalWindowEmail.baml
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\obj\Debug\Theme\DarkDictionary.baml
+C:\Users\olbin\source\repos\SSSTOCK\SSSTOCK\obj\Debug\Theme\WhiteDictionary.baml
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\bin\Debug\SSSTOCK.exe.config
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\bin\Debug\SSSTOCK.exe.manifest
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\bin\Debug\SSSTOCK.application
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\bin\Debug\SSSTOCK.exe
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\bin\Debug\SSSTOCK.pdb
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\bin\Debug\EntityFramework.dll
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\bin\Debug\Google.Protobuf.dll
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\bin\Debug\MaterialDesignColors.dll
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\bin\Debug\MySql.Data.dll
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\bin\Debug\MySqlConnector.dll
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\bin\Debug\System.Buffers.dll
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\bin\Debug\System.IO.Pipelines.dll
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\bin\Debug\System.Memory.dll
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\bin\Debug\ZstdSharp.dll
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\bin\Debug\EntityFramework.xml
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\bin\Debug\Google.Protobuf.pdb
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\bin\Debug\Google.Protobuf.xml
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\bin\Debug\MaterialDesignColors.pdb
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\bin\Debug\MySql.Data.xml
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\bin\Debug\MySqlConnector.xml
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\bin\Debug\System.Buffers.xml
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\bin\Debug\System.IO.Pipelines.xml
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\bin\Debug\System.Memory.xml
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\obj\Debug\Warehouse.csproj.AssemblyReference.cache
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\obj\Debug\Theme\DarkDictionary.baml
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\obj\Debug\Theme\WhiteDictionary.baml
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\obj\Debug\AddAccountWindow.g.cs
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\obj\Debug\MainMainWindow.g.cs
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\obj\Debug\AuthorizationWindow.g.cs
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\obj\Debug\MainPolifortUser.g.cs
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\obj\Debug\ModalWindow\ModalWindow.g.cs
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\obj\Debug\ModalWindow\ModalWindowEmail.g.cs
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\obj\Debug\PageUser\ContractPage.g.cs
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\obj\Debug\PageUser\MainPage.g.cs
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\obj\Debug\PageUser\StatusRequestsPage.g.cs
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\obj\Debug\App.g.cs
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\obj\Debug\SSSTOCK_MarkupCompile.cache
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\obj\Debug\SSSTOCK_MarkupCompile.lref
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\obj\Debug\App.baml
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\obj\Debug\AddAccountWindow.baml
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\obj\Debug\MainMainWindow.baml
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\obj\Debug\AuthorizationWindow.baml
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\obj\Debug\MainPolifortUser.baml
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\obj\Debug\ModalWindow\ModalWindow.baml
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\obj\Debug\ModalWindow\ModalWindowEmail.baml
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\obj\Debug\PageUser\ContractPage.baml
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\obj\Debug\PageUser\MainPage.baml
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\obj\Debug\PageUser\StatusRequestsPage.baml
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\obj\Debug\SSSTOCK.g.resources
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\obj\Debug\SSSSTOCK.Properties.Resources.resources
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\obj\Debug\Warehouse.csproj.GenerateResource.cache
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\obj\Debug\Warehouse.csproj.CoreCompileInputs.cache
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\obj\Debug\SSSTOCK.exe.manifest
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\obj\Debug\SSSTOCK.application
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\obj\Debug\Warehouse.csproj.CopyComplete
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\obj\Debug\SSSTOCK.exe
+C:\Users\olbin\OneDrive\Рабочий стол\SSSTOCK\SSSTOCK\obj\Debug\SSSTOCK.pdb

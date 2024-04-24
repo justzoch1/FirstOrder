@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище SkotBaseModel" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Ошибки, обнаруженные при создании:
+предупреждение 6002: В таблице или представлении "SkotBase.dbo.register" не определен первичный ключ. Ключ был выведен, а определение таблицы или представления было создано в режиме только для чтения.-->
+  <EntityType Name="register">
+    <Key>
+      <PropertyRef Name="id" />
+      <PropertyRef Name="login_user" />
+      <PropertyRef Name="password_user" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="login_user" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="password_user" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="stockbase">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name_pr" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="count_pr" Type="int" Nullable="false" />
+    <Property Name="company_pr" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="price_pr" Type="int" Nullable="false" />
+    <Property Name="ttype_pr" Type="varchar" MaxLength="100" />
+  </EntityType>
+  <EntityContainer Name="Хранилище SkotBaseModelContainer">
+    <EntitySet Name="stockbase" EntityType="Self.stockbase" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="register" EntityType="Self.register" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+[register].[id] AS [id], 
+[register].[login_user] AS [login_user], 
+[register].[password_user] AS [password_user]
+FROM [dbo].[register] AS [register]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>
